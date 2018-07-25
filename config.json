@@ -1,9 +1,8 @@
 {
   "defaultStaticContent":  {
-      "languagesEnabled" : false,
-      "versionsEnabled": true,
-      "dictionaireEnabled": false,
-      "useUnderscoreForSpaceConventions": true,
+      "EnableMultiLanguage" : false,
+      "EnableVersioning": true,
+      "EnableDictionaires": false,
       "defaultVersion": "Version_2",
       "defaultLanguage": "",
       "versions": [
