@@ -1,11 +1,15 @@
 {
-    "defaultStaticContent":  {
-        "version": [
-            "Version_1",
-            "Version_2"
-        ],
-        "languages": [
-            
-        ]
-    }
+  "defaultStaticContent":  {
+      "languagesEnabled" : false,
+      "versionsEnabled": true,
+      "dictionaireEnabled": false,
+      "useUnderscoreForSpaceConventions": true,
+      "defaultVersion": "Version_2",
+      "defaultLanguage": "",
+      "versions": [
+          "Version_1",
+          "Version_2"
+      ],
+      "languages": []
+  }
 }
