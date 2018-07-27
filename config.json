@@ -1,11 +1,14 @@
 {
-    "defaultStaticContent":  {
-        "version": [
-            "Version_1",
-            "Version_2"
-        ],
-        "languages": [
-            
-        ]
-    }
+  "defaultStaticContent":  {
+      "enableMultiLanguage" : false,
+      "enableVersioning": true,
+      "enableDictionaires": false,
+      "defaultVersion": "Version_2",
+      "defaultLanguage": "",
+      "versions": [
+          "Version_1",
+          "Version_2"
+      ],
+      "languages": []
+  }
 }
