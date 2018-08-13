@@ -1,4 +1,4 @@
-# GET Albums (version 2)
+# GET Artists (version 2)
 Gets Albums
 
 
