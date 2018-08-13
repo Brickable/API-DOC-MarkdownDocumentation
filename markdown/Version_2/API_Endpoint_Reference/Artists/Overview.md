@@ -1,4 +1,4 @@
-# Artists (version 2)
+# Artists overview (version 2)
 
 Type here a short description about the scope of this
 
