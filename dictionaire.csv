@@ -6,12 +6,12 @@ Version_2,Versão 2,Version 2
 API_Endpoint_Reference,API Endpoint Referências,API Endpoint Reference
 Getting_Started,Começando,Getting_Started
 Configuration_&_Implementation,Configuração e Implementação,Configuration & Implementation
-authorization.md,Autorização,Authorization
-configuration.md,Configuração,Configuration
-implementation.md,Implementação,Implementation
-Album.md,Álbum,Album
-Albums.md,Álbuns,Albums
-Overview.md,Visão Geral,Overview
-Artist.md,Artista,Artist
-Artists.md,Artistas,Artists
-Introduction.md,Introdução,Introduction
+authorization,Autorização,Authorization
+configuration,Configuração,Configuration
+implementation,Implementação,Implementation
+Album,Álbum,Album
+Albums,Álbuns,Albums
+Overview,Visão Geral,Overview
+Artist,Artista,Artist
+Artists,Artistas,Artists
+Introduction,Introdução,Introduction
