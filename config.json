@@ -2,7 +2,7 @@
   "defaultStaticContent":  {
       "enableMultiLanguage" : true,
       "enableVersioning": true,
-      "enableDictionaires": false,
+      "enableDictionaires": true,
       "defaultVersion": "Version_2",
       "defaultLanguage": "en-US",
       "versions": [
