@@ -17,3 +17,5 @@ Artists,Artistas,Artists
 Introduction,Introdução,Introduction
 Guides,Guias,Guides
 invalidUrlMsg, Url Invalido.  O sistema for redirecionado para a pagina principal,The provided url has no match on selected version/language. System redirected you to the version root page.
+Version,Versão,Version
+Language,Linguagem,Language
