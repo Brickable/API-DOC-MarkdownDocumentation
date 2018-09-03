@@ -1,0 +1,21 @@
+key,pt-PT,en-US
+pt-PT,Português,Portuguese
+en-US,Inglês (EUA),English (USA)
+Version_1,Versão 1,Version 1
+Version_2,Versão 2,Version 2
+API_Endpoint_Reference,API Endpoint Referências,API Endpoint Reference
+Getting_Started,Começando,Getting Started
+Configuration_&_Implementation,Configuração e Implementação,Configuration & Implementation
+authorization,Autorização,Authorization
+configuration,Configuração,Configuration
+implementation,Implementação,Implementation
+Album,Álbum,Album
+Albums,Álbuns,Albums
+Overview,Visão Geral,Overview
+Artist,Artista,Artist
+Artists,Artistas,Artists
+Introduction,Introdução,Introduction
+Guides,Guias,Guides
+invalidUrlMsg, Url Invalido.  O sistema for redirecionado para a pagina principal,The provided url has no match on selected version/language. System redirected you to the version root page.
+Version,Versão,Version
+Language,Linguagem,Language
